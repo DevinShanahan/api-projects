@@ -1,0 +1,25 @@
+.sun {
+  color:#e8e543;
+}
+
+.cloud {
+  color:white;
+}
+.heading {
+  font-family: Courier;
+  color:navy;
+}
+
+#head {
+  background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+  background: rgba(160, 160, 160, 0.6);
+  border-radius: 100px;
+}
+
+#temperature {
+  text-align:right;
+}
+
+#unit {
+  text-align:left;
+}
